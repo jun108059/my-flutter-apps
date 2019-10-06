@@ -1,5 +1,5 @@
 # <p align="center">[Flutter] 1. 첫번째 앱 만들어보기, part 1</p>
-
+  ![img](/img/flutter.jpg)
 > flutter 공식 문서인 https://flutter.dev/docs/get-started/codelab 내용을     
 > 바탕으로 재구성하였습니다. 
 
