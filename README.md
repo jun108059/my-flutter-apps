@@ -1,12 +1,12 @@
 ### DSC-HUFS 2019
+![Flutter](https://img.shields.io/badge/Flutter-dart-blue?logo=Flutter)
+![Android](https://img.shields.io/badge/Android-platform-48d1cc?logo=Android)
 ***
-**정보통신공학과 박영준**    
+# DSC Flutter App    
+**정보통신공학과 박영준** 
 
-![img](/img/flutter.jpg)
-
-# dsc_app
-
-DSC_flutterApp
+![img](/img/flutter.jpg)    
+   
 
 ## Getting Started
 
@@ -19,7 +19,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# DSC Flutter App
 
-![Flutter](https://img.shields.io/badge/Flutter-dart-blue?logo=Flutter)
-![Android](https://img.shields.io/badge/Android-platform-48d1cc?logo=Android)
