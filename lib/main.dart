@@ -12,15 +12,19 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       title: 'Startup Name Generator',
+      theme: ThemeData(          // Add the 3 lines from here...
+        primaryColor: Colors.white,
+      ),
       home: RandomWords(),
     );
   }
 }
 
 class RandomWordsState extends State<RandomWords> {
-  // step 4: ListView 무한 스크롤링
-  final _suggestions = <WordPair>[];  // 제안하는 단어 쌍을 저장하기 위해
-  final _biggerFont = const TextStyle(fontSize: 18.0);  // 폰트 사이즈를 크게 만들기 위해
+  // part 2 add icons
+  final List<WordPair> _suggestions = <WordPair>[];
+  final Set<WordPair> _saved = Set<WordPair>();   // Add this line.
+  final TextStyle _biggerFont = TextStyle(fontSize: 18.0);
   // Dart 언어에서는 _(언더스코어)를 식별자의 prefix 로 붙이면 privacy 가 강제 적용
   @override
   Widget build(BuildContext context) {
@@ -28,10 +32,46 @@ class RandomWordsState extends State<RandomWords> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Startup Name Generator'),
+        actions: <Widget>[      // Add 3 lines from here...
+          IconButton(icon: Icon(Icons.list), onPressed: _pushSaved),
+        ],
       ),
       body: _buildSuggestions(),
     );
   }
+
+  void _pushSaved() {
+    Navigator.of(context).push(
+      MaterialPageRoute<void>(
+        builder: (BuildContext context) {
+          final Iterable<ListTile> tiles = _saved.map(
+                (WordPair pair) {
+              return ListTile(
+                title: Text(
+                  pair.asPascalCase,
+                  style: _biggerFont,
+                ),
+              );
+            },
+          );
+          final List<Widget> divided = ListTile
+              .divideTiles(
+            context: context,
+            tiles: tiles,
+          )
+              .toList();
+
+          return Scaffold(         // Add 6 lines from here...
+            appBar: AppBar(
+              title: Text('Saved Suggestions'),
+            ),
+            body: ListView(children: divided),
+          );                       // ... to here.
+        },
+      ),
+    );
+  }
+
   Widget _buildSuggestions() {
     // 제안하는 단어쌍을 표시하는 ListView 를 빌드
     return ListView.builder(
@@ -49,11 +89,25 @@ class RandomWordsState extends State<RandomWords> {
   // _buildSuggestions 함수는 각 단어 쌍마다 _buildRow 를 호출
   // 이 함수는 ListTIle 안에서 새로운 쌍을 표시
   Widget _buildRow(WordPair pair) {
+    final bool alreadySaved = _saved.contains(pair);
     return ListTile(
       title: Text(
         pair.asPascalCase,
         style: _biggerFont,
       ),
+      trailing: Icon(   // Add the lines from here...
+        alreadySaved ? Icons.favorite : Icons.favorite_border,
+        color: alreadySaved ? Colors.red : null,
+      ),
+      onTap: () {      // Add 9 lines from here...
+        setState(() {
+          if (alreadySaved) {
+            _saved.remove(pair);
+          } else {
+            _saved.add(pair);
+          }
+        });
+      },
     );
   }
 }
