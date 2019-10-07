@@ -7,8 +7,14 @@
 
 ![img](/img/flutter.jpg)    
    
+### 📝Flutter documentation 재구성
+* [1. 첫번째 앱 만들어보기, part 1](https://github.com/jun108059/dsc_flutter_app/blob/master/docs/flutter-1.md)
+* [2. 첫번째 앱 만들어보기, part 2](https://github.com/jun108059/dsc_flutter_app/blob/master/docs/flutter-2.md)
 
-## Getting Started
+
+
+***
+## 📖Getting Started
 
 This project is a starting point for a Flutter application.
 
