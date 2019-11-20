@@ -1,6 +1,13 @@
 # dsc_app1
 
-A new Flutter project.
+## Flutter Story App UI Concept
+
+2019-11-20
+DSC HUFS
+Clone Coding Section
+https://www.youtube.com/watch?v=5KbiU-93-yU
+
+![gif](/img/StoryAppUI.gif)
 
 ## Getting Started
 
