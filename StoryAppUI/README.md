@@ -1,10 +1,13 @@
-# dsc_app1
+### dsc_app1
 
 ## Flutter Story App UI Concept
 
 2019-11-20
-DSC HUFS
+
+**DSC HUFS**
+
 Clone Coding Section
+
 https://www.youtube.com/watch?v=5KbiU-93-yU
 
 ![gif](/img/StoryAppUI.gif)
