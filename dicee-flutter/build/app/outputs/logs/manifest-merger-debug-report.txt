@@ -1,154 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0fe59c31303372721485d09c70c96265\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\61fc7cde9d72f6687c07675a486fbb7f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94639417d97252101137bd4262439ad2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6cceedf211d2b4a8aae2c6e87e276709\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\717fc7ac61618e46a5643a18e3f10e3e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c02375486920f7cd86047a4cfc4b57b\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1690530a3285d8d2905f8e2e5a46754e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aeb0ef0f9cd436645f2868068636f079\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f27512c6edd8c9cb3c0a00ffccd6e9a4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb49009f66fa4b853074d2e3b150c8f0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be35dc8dc0278b698520f1c5a25dc095\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7736b8cc8209c55bc5102e39f942e3c2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9623e551a5d8a899ed2d908237b2984e\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\59df4c5d87bf26c06ffd1605af86b958\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9bc02f7903f9228974727e0b50bc9341\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad05a8bc63c1cb031f7bc049cc8722db\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b0b488b9eabc015f27dcb5ce599aea72\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b490b70b1c5dcff0614ed3b5dcd89043\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3be8c0cdc804b56204c315e630716388\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c2cd991ec073c8d375c58bbdd9d3ab61\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1af11c0924f60daf9841b9358afb4b3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6120ae8a4f84b1d4f990bbc10618830f\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
 	package
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:2:5-34
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:1-39:12
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:8:5-66
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:8:5-66
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:8:22-64
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:15:5-38:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b0b488b9eabc015f27dcb5ce599aea72\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b0b488b9eabc015f27dcb5ce599aea72\AndroidManifest.xml:22:5-23:19
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:17:9-30
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:17:9-30
 	android:icon
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:18:9-43
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:16:9-57
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:16:9-57
 activity#co.appbrewery.dicee.MainActivity
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:19:9-37:20
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:19:9-37:20
 	android:launchMode
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:21:13-43
 	android:hardwareAccelerated
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:24:13-47
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:24:13-47
 	android:windowSoftInputMode
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:25:13-55
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:25:13-55
 	android:configChanges
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:23:13-137
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:23:13-137
 	android:theme
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:22:13-47
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:22:13-47
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:20:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:30:13-32:40
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:30:13-32:40
 	android:value
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:32:17-37
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:32:17-37
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:31:17-82
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:31:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:33:13-36:29
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:34:17-68
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:34:17-68
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:35:17-76
+ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:35:17-76
 	android:name
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0fe59c31303372721485d09c70c96265\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\0fe59c31303372721485d09c70c96265\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\61fc7cde9d72f6687c07675a486fbb7f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\61fc7cde9d72f6687c07675a486fbb7f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94639417d97252101137bd4262439ad2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\94639417d97252101137bd4262439ad2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6cceedf211d2b4a8aae2c6e87e276709\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\6cceedf211d2b4a8aae2c6e87e276709\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\717fc7ac61618e46a5643a18e3f10e3e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\717fc7ac61618e46a5643a18e3f10e3e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c02375486920f7cd86047a4cfc4b57b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\8c02375486920f7cd86047a4cfc4b57b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1690530a3285d8d2905f8e2e5a46754e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1690530a3285d8d2905f8e2e5a46754e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aeb0ef0f9cd436645f2868068636f079\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\aeb0ef0f9cd436645f2868068636f079\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f27512c6edd8c9cb3c0a00ffccd6e9a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f27512c6edd8c9cb3c0a00ffccd6e9a4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb49009f66fa4b853074d2e3b150c8f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cb49009f66fa4b853074d2e3b150c8f0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be35dc8dc0278b698520f1c5a25dc095\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be35dc8dc0278b698520f1c5a25dc095\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\49cb63ede300d7f8a53bbc90f3d47ac4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7736b8cc8209c55bc5102e39f942e3c2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7736b8cc8209c55bc5102e39f942e3c2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9623e551a5d8a899ed2d908237b2984e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9623e551a5d8a899ed2d908237b2984e\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\59df4c5d87bf26c06ffd1605af86b958\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\59df4c5d87bf26c06ffd1605af86b958\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9bc02f7903f9228974727e0b50bc9341\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9bc02f7903f9228974727e0b50bc9341\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad05a8bc63c1cb031f7bc049cc8722db\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ad05a8bc63c1cb031f7bc049cc8722db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b0b488b9eabc015f27dcb5ce599aea72\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\b0b488b9eabc015f27dcb5ce599aea72\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b490b70b1c5dcff0614ed3b5dcd89043\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b490b70b1c5dcff0614ed3b5dcd89043\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3be8c0cdc804b56204c315e630716388\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3be8c0cdc804b56204c315e630716388\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c2cd991ec073c8d375c58bbdd9d3ab61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c2cd991ec073c8d375c58bbdd9d3ab61\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1af11c0924f60daf9841b9358afb4b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a1af11c0924f60daf9841b9358afb4b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6120ae8a4f84b1d4f990bbc10618830f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\슬기\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6120ae8a4f84b1d4f990bbc10618830f\AndroidManifest.xml:20:5-44
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f680f5cab482b7966fa9c805ac0cb70/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/ec593f8d91037f6ef1bbcd6a177afa1c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4f8b5527496d67480951cc322460db7f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5276819c062a92c029464122749254f1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4932f7e67b26f042b51fa62f1aa4816d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/8849109129fcb2f39779166fb64480b1/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/00bc847ce5b9e3ce7b40d465bffbf9e9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/5ad830c9e1047f79e3f0f7e9e42ab8ab/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/a3c457ded457b98b207b4f227d629399/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3d4a3c67e39fa8d6d0c0f126c28b81d8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/82b148795609bbbaf8e825fc2ff2a6bf/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/246153fc0686d4ff78c8961ca91329b7/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/4c7e5b6d46acfb24c04b3a473c53b419/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/63647da4654da12a6f2785cfbbad8123/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/733fc1d306cee2c05d3e1fb0b7527020/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fdd65d8b6066fd289a68b42931dc03a2/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/94d1bdd9d3f5e77b2c2deb76d0ecef77/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c70a8bef3ed62675d42960780f476d6e/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/3a992d8307f21a8f15eb649383ba6a6a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/fb2fbe77879a57ea0c5dfd6fe59ba874/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/f582580d3eb247a74d915a27810a4674/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/c75155371656c04dff3a027cdeb13e8a/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/esepyj/.gradle/caches/transforms-2/files-2.1/53b4a4cf87c0ff501a8c414cec884555/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\workspace\vscode\dicee-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/esepyj/flutter/dsc_flutter_app/dicee-flutter/android/app/src/main/AndroidManifest.xml

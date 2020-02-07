@@ -6,12 +6,12 @@ void main() => runApp(
         home: Scaffold(
           backgroundColor: Colors.blueGrey,
           appBar: AppBar(
-            title: Text('I Am Rich'),
+            title: Text('YoungJun Is Rich'),
             backgroundColor: Colors.blueGrey[900],
           ),
           body: Center(
             child: Image(
-              image: NetworkImage('https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg'),
+              image: NetworkImage('https://t1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/3r5K/image/_1tvEq9L3V0j7EwlsFbLLRmJ6gs.jpg'),
             ),
           ),
         ),

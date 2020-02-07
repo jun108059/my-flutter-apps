@@ -1,0 +1,4 @@
+#Fri Feb 07 16:08:18 KST 2020
+base.0=/home/esepyj/flutter/dsc_flutter_app/dicee-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
