@@ -33,7 +33,7 @@ class _DicePageState extends State<DicePage> {
             child: FlatButton(
               onPressed: () {
                 setState(() { // HotReload 없이 Image 바뀜 - Trigger
-                  leftDiceNumber = 3;
+                  leftDiceNumber = Random().nextInt(6);
                   print('deceNumber = $leftDiceNumber');
                 });
               },
