@@ -12,6 +12,8 @@
 * [2. 첫번째 앱 만들어보기, part 2](https://github.com/jun108059/dsc_flutter_app/blob/master/docs/flutter-2.md)
 
 
+### 📝Flutter 실습
+* [주사위 App](https://github.com/jun108059/dsc_flutter_app/tree/master/dicee-flutter)
 
 ***
 ## 📖Getting Started
