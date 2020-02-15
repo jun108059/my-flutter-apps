@@ -13,8 +13,11 @@
 
 
 ### 📝Flutter 실습
-* [주사위 App](https://github.com/jun108059/dsc_flutter_app/tree/master/dicee-flutter)
-
+* [Mi Card App](https://github.com/jun108059/mi_card_flutter)  
+* [주사위 App](https://github.com/jun108059/dsc_flutter_app/tree/master/dicee-flutter)   
+* [카드이미지 App](https://github.com/jun108059/dsc_flutter_app/tree/master/StoryAppUI)   
+* [I-Am-Rich App](https://github.com/jun108059/dsc_flutter_app/tree/master/i_am_rich)   
+* [Magic-8-ball App](https://github.com/jun108059/dsc_flutter_app/tree/master/magic_8ball)   
 ***
 ## 📖Getting Started
 
