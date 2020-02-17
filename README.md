@@ -18,6 +18,7 @@
 * [카드이미지 App](https://github.com/jun108059/dsc_flutter_app/tree/master/StoryAppUI)   
 * [I-Am-Rich App](https://github.com/jun108059/dsc_flutter_app/tree/master/i_am_rich)   
 * [Magic-8-ball App](https://github.com/jun108059/dsc_flutter_app/tree/master/magic_8ball)   
+* [FIrebase](https://github.com/jun108059/dsc_flutter_app/tree/master/magic_8ball)   
 ***
 ## 📖Getting Started
 
