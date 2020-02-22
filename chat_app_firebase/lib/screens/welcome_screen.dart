@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'login_screen.dart';
 import 'registration_screen.dart';
 
@@ -13,24 +12,27 @@ class WelcomeScreen extends StatefulWidget {
 class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProviderStateMixin{
   // 에니메이션을 하나만 사용하기 때문에 single-ticker
   AnimationController controller;
+  Animation animation;
 
   @override
   void initState() {
     super.initState();
 
     controller = AnimationController(
-      duration: Duration(seconds: 1), // How long
+      duration: Duration(seconds: 1), // How long Animation go on
       vsync: this,// TickerProvider
       upperBound: 100.0,
     );
 
+    animation = CurvedAnimation(parent: controller, curve: Curves.decelerate);
+    
     controller.forward();
 
     controller.addListener(() {
       setState(() {
 
       });
-      print(controller.value);
+      print(controller.value); // 0.0 ~ 1.0
     });
   }
 
@@ -50,11 +52,11 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                   tag: 'logo',
                   child: Container(
                     child: Image.asset('images/logo.png'),
-                    height: 60.0,
+                    height: controller.value,
                   ),
                 ),
                 Text(
-                  '${controller.value.toInt()}%',
+                  'Flash Chat',
                   style: TextStyle(
                     fontSize: 45.0,
                     fontWeight: FontWeight.w900,
